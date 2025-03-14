@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name : PRIYADHARSHINI RAJA
-## Roll no : 212223230160
-## Date of experiment : 3.03.25
+## Name : Moulidhar
+## Roll no : 212223240042
+
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
